@@ -1,0 +1,16 @@
+# Secrets - never upload these
+.env
+.cache
+.cache-*
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Editor leftovers
+tempCodeRunnerFile.py
+.vscode/
